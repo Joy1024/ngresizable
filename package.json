@@ -1,6 +1,6 @@
 {
   "name": "ngresizable",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple, tree-shakable, AoT, Universal and Web Worker friendly resizable component for Angular (2 and beyond).",
   "main": "ngresizable.bundle.js",
   "jsnext:main": "ngresizable.module.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mgechev/ngresizable.git"
+    "url": "git+ssh://github.com/Joy1024/ngresizable.git"
   },
   "keywords": [
     "resize",

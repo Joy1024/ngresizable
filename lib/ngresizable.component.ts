@@ -91,7 +91,7 @@ export class NgResizableComponent implements OnInit, OnChanges {
       { x: this.x, y: this.y }
     );
 
-      this.resizeInit.next(this);
+    this.resizeInit.next(this);
     
   }
 
