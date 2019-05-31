@@ -52,6 +52,8 @@ export class NgResizableComponent implements OnInit, OnChanges {
   // Resize end event.
   @Output() resizeEnd = new EventEmitter<IResizeEvent>();
 
+  @Output() resizeInit = new EventEmitter<NgResizableComponent>();
+
   // Width of the element.
   @Input() width: number;
   // Height of the element.
@@ -88,6 +90,9 @@ export class NgResizableComponent implements OnInit, OnChanges {
       { width: this.width, height: this.height },
       { x: this.x, y: this.y }
     );
+
+      this.resizeInit.next(this);
+    
   }
 
   ngOnChanges(c: any) {
