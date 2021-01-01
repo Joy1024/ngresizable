@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mgechev/ngresizable.svg?branch=master)](https://travis-ci.org/mgechev/ngresizable)
+[![Build Status](https://travis-ci.org/Joy1024/ngresizable.svg?branch=master)](https://travis-ci.org/Joy1024/ngresizable)
 
 # Angular Resizable
 
