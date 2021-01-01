@@ -30,15 +30,15 @@
   },
   "homepage": "https://github.com/mgechev/ngresizable#readme",
   "peerDependencies": {
-    "@angular/core": ">=8.2.3"
+    "@angular/core": ">=11.0.5"
   },
   "devDependencies": {
-    "@angular/common": "^8.2.3",
-    "@angular/compiler": "^8.2.3",
-    "@angular/compiler-cli": "^8.2.3",
-    "@angular/core": "^8.2.3",
-    "@angular/platform-browser": "^8.2.3",
-    "@angular/platform-browser-dynamic": "^8.2.3",
+    "@angular/common": "^11.0.5",
+    "@angular/compiler": "^11.0.5",
+    "@angular/compiler-cli": "^11.0.5",
+    "@angular/core": "^11.0.5",
+    "@angular/platform-browser": "^11.0.5",
+    "@angular/platform-browser-dynamic": "^11.0.5",
     "@types/chai": "^3.4.34",
     "@types/mocha": "^2.2.37",
     "@types/node": "^7.0.0",
@@ -50,7 +50,7 @@
     "rollup": "^0.41.4",
     "rollup-plugin-commonjs": "^8.0.2",
     "rollup-plugin-node-resolve": "^3.0.0",
-    "rxjs": "^6.5.2",
+    "rxjs": "^6.6.2",
     "systemjs": "0.19.28",
     "ts-helpers": "^1.1.2",
     "ts-node": "^3.0.0",
@@ -58,6 +58,6 @@
     "tslint": "^4.3.1",
     "typescript": "^2.1.5",
     "uglifyjs": "^2.4.10",
-    "zone.js": "^0.8.4"
+    "zone.js": "^0.10.3"
   }
 }
